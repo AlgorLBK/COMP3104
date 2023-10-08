@@ -1,0 +1,12 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "- Algor\r - Lombako",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [],
+  "author": "Algor LOMBAKO 101372552",
+  "license": "ISC"
+}
